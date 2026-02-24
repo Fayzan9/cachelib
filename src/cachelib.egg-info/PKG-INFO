@@ -1,0 +1,6 @@
+Metadata-Version: 2.4
+Name: cachelib
+Version: 0.1.0
+Summary: Thread-safe LRU cache with TTL and decorator support
+Author: Faizan
+Requires-Python: >=3.10
